@@ -201,7 +201,7 @@ class _SeeAllPracticeSCreenState extends State<SeeAllPracticeSCreen> {
                         )),
               );
             },
-            
+
             child: new Container(
               decoration: new BoxDecoration(
                 borderRadius: new BorderRadius.circular(20.0),
